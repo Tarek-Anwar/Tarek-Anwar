@@ -40,6 +40,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 ---
+<img src="https://tryhackme-badges.s3.amazonaws.com/TarekAnwar.png" alt="Your Image Badge" />
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/TarekAnwar.png" width="300" />
 <a href="https://github.com/Tarek-Anwar/github-readme-stats">
    <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=Tarek-Anwar&show_icons=true&hide_border=true" />
